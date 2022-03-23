@@ -3,6 +3,7 @@
 - 📚 Estudando Superior em Analise e Desenvolvimento de Sistemas / Primeiro Semestre / UNIASSELVI
 - 🔭 Básico em lingugem de progrmação C
 - 🌱 Estou aprendendo HTML, CSS e Javascript
+- 🤯 Veja aqui meus Projetos: https://riquelme-elias.github.io/Portifolio-certificard/
 - ✉️ Contate-me pelo Email: riquelmeelias0604@gmail.com
 - 😄 Pronomes: ele, dele
 
