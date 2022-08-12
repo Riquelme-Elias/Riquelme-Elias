@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Riquelme Elias 👋
 
-- 📚 Estudando Superior em Analise e Desenvolvimento de Sistemas / Primeiro Semestre / UNIASSELVI
+- 📚 Estudante de Superior em Analise e Desenvolvimento de Sistemas / Segundo Semestre / UNIASSELVI
 - 🔭 Básico em lingugem de progrmação C
-- 🌱 Estou aprendendo HTML, CSS e Javascript
-- 🤯 Veja aqui meus Projetos: https://riquelme-elias.github.io/Portifolio-certificard/
+- 🌱 EEstudando programação font-end: HTML, CSS e Javascript
+- 🤯 Veja aqui meus Projetos: https://riquelme-elias.github.io/portifolio/
 - ✉️ Contate-me pelo Email: riquelmeelias0604@gmail.com
 - 😄 Pronomes: ele, dele
 
